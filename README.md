@@ -22,7 +22,7 @@ cd c:\vagrant
 vagrant box add CentOS https://github.com/tommy-muehle/puppet-vagrant-boxes/releases/download/1.1.0/centos-7.0-x86_64.box
 vagrant init CentOS
 ```
-para criar os arquivos de confiração do Vagrant
+ 
 
 https://www.vagrantbox.es/
 
